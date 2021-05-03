@@ -30,11 +30,8 @@ $ brew tap homebrew/cask-versions
 
 ## Java 11 on MacOS
 ```
-$ brew cask install java11 
-```
-- OU para instalar a última versão
-```
-$ brew cask install java
+$ brew tap AdoptOpenJDK/openjdk
+$ brew install --cask adoptopenjdk11
 ```
 - Verificar a instalação: 
 ```
