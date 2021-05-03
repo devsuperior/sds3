@@ -27,10 +27,13 @@ Não se inscreveu ainda? Corre que ainda dá tempo:
 - [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds3/tree/main/_instalacao/mac)
 
 ## Materiais de apoio das aulas
-(aguarde)
+- [Episódio 1](https://github.com/devsuperior/sds3/tree/main/episodio1)
+- [Episódio 2](https://github.com/devsuperior/sds3/tree/main/episodio2)
+- [Episódio 3](https://github.com/devsuperior/sds3/tree/main/episodio3)
 
 ## Como obter o certificado?
-(aguarde)
+
+https://github.com/devsuperior/sds3/tree/main/_certificado
 
 ## Vídeos de preparação
 
@@ -55,4 +58,3 @@ Se você ainda não viu os vídeos de preparação da SDS 3.0, corre lá que ain
 ### 5) Git e Github para iniciantes
 
 [![Image](https://img.youtube.com/vi/KLG-jC1fh28/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/KLG-jC1fh28)
-
