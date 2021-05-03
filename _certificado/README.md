@@ -10,6 +10,9 @@
 [![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
 
 # Passos para obter o certificado
+Vídeo no Youtube:
+
+[![Image](https://img.youtube.com/vi/3Ck8Wi3wMtk/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/3Ck8Wi3wMtk)
 
 ## 1) Faça sua inscrição no evento
 
