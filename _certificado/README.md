@@ -34,7 +34,7 @@ https://learn.devsuperior.com
 - Seu projeto precisa ter pelo menos 50% de equivalência dos commits das aulas no seu usuário, para podermos atestar que você fez o projeto gradualmente junto com a gente. O certificado não será validado para projetos com menos de 50% de equivalência dos commits.
 - Seu projeto no Netlify precisa estar funcionando (mostrando os dois gráficos, e a tabela paginada de vendas).
 
-## 5) Envie os links do projeto antes do final do final do evento
+## 5) Envie os links do projeto antes do final do evento
 
 **ATENÇÃO: não será possível enviar o projeto depois do evento**
 
